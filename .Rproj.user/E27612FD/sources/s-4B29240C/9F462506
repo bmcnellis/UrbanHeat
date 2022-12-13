@@ -1,0 +1,26 @@
+{
+    "id": "9F462506",
+    "path": "C:/Users/bmcnellis/DOI/Ibsen, Peter C - UrbanAir_CDI/bem/UrbanHeat/inst/shiny-apps/UrbanHeat/ui.R",
+    "project_path": "inst/shiny-apps/UrbanHeat/ui.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1670879283773.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "13,27",
+        "scrollLine": "6"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1670971732,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1670971732221,
+    "read_only": false,
+    "read_only_alternatives": []
+}
